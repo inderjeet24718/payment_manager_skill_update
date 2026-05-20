@@ -1,0 +1,2 @@
+version,skill_name,status,current_path,package_path,notes
+v1,payments-analyst,defined,current/payments-analyst,versions/payments-analyst_v1.zip,Version slot created for Payments Analyst Skill; internal package not uploaded to public repo
